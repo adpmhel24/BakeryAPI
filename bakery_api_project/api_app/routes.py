@@ -1,0 +1,1 @@
+# rows = db.get_session('bind_name').execute(query, params)
